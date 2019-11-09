@@ -25,7 +25,7 @@ Removing the short-term fluctuations of the Yen time series using the Hodrick-Pr
 
 ![Trend](Images/bokeh_plot.png)
 
-2. Noise Analysis
+2.Noise Analysis
 
 When analyzing the noise plot it is observed that there are short-term fluctuations
 
