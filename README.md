@@ -29,7 +29,7 @@ Removing the short-term fluctuations of the Yen time series using the Hodrick-Pr
 
 When analyzing the noise plot it is observed that there are short-term fluctuations
 
-![Noise](Images/noise.png)
+![Noise](Images/noise.PNG)
 
 # Using ARMA Model for return forecasting
 
@@ -39,7 +39,7 @@ ARMA model was created using the market data and the following summarized result
 
 It is observed the coefficients are nearly close to zero and the P> values are insignificant since they are high above than 0.05. This doesn't provide a good fit model for forecasting.
 
-![5_Day](Images/ARMA_Yen_Forecast.png)
+![5_Day](Images/ARMA_Yen_Forecast.PNG)
 
 # Using ARIMA Model for return forecasting
 
